@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sayan-404
-- 👀 I’m interested in web-developement and hacking
-- 🌱 I’m currently learning web-dev
-- 💞️ I’m looking to collaborate on a website
+- 👀 I’m interested in web-hacking and ctfs
+- 🌱 I’m currently OWASP top-10
 - 📫 mail me on Sayantbs@gmail.com
 
 <!---
